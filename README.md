@@ -1,5 +1,7 @@
 # CloudlogCAT
 
-Windows app for providing CAT support for Cloudlog, this application uses the Omnirig (http://dxatlas.com/omnirig/) to interface to up to two radios at one time .
-
-Note: Omnirig doesn't like GHz freqs I cant fix this, it will be addressed in V2 which is moving away from Omnirig for interfacing
+This Version of CloudLogCAT combines the following Features of the following Branches:
+- [ICOM-BugFig](https://github.com/rmc47/CloudlogCAT)
+- [MultiTargets](https://github.com/DJLax5/CloudlogCAT/tree/MultiTargets) by DJLax5 // Give your Rig a Name which appears in Cloudlog
+- Ability to add the String "JO30" to the TRX-Name (Specialuse for jo30.de Cloudlog) by DF7ZZ
+- Smaller little Bugfixes (will be documented later)
