@@ -1,0 +1,16 @@
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.vbproj.AssemblyReference.cache
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.vbproj.SuggestedBindingRedirects.cache
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.Resources.resources
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.vbproj.GenerateResource.cache
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.vbproj.CoreCompileInputs.cache
+C:\VStudioProjects\Omnirig2Cloudlog\bin\Debug\Omnirig2Cloudlog.exe.config
+C:\VStudioProjects\Omnirig2Cloudlog\bin\Debug\Omnirig2Cloudlog.exe
+C:\VStudioProjects\Omnirig2Cloudlog\bin\Debug\Omnirig2Cloudlog.pdb
+C:\VStudioProjects\Omnirig2Cloudlog\bin\Debug\Omnirig2Cloudlog.xml
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.exe
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.xml
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.pdb
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.Form1.resources
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.Form3.resources
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.CloudlogSettingsForm.resources
+C:\VStudioProjects\Omnirig2Cloudlog\obj\Debug\Omnirig2Cloudlog.AboutBox1.resources
